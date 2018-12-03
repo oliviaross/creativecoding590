@@ -1,4 +1,4 @@
-# creativecoding590
+#CSC590: Creative Computing, Winter 2018
 
 12-3-18
 - draws three circles: a blue circle, a red circle and a yellow circle
